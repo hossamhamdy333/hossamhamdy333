@@ -11,4 +11,11 @@ I just finished my degree in Electronics and Communications Engineering at HTI. 
 - **[Fact-check agents](https://github.com/hossamhamdy333/AI_Portfolio/tree/main/fact_check_crew)**: three CrewAI agents that write, check and revise answers. Hallucination rate dropped from 0.12 to 0.08 on 100 questions, at about 2 to 3 times the LLM calls.
 - **[Text-to-SQL fine-tuning](https://github.com/hossamhamdy333/AI_Portfolio/tree/main/nl2sql_finetune)**: Qwen2.5-Coder with QLoRA. The share of valid SQL went from 92.00% to 97.25% on 400 held-out questions.
 - **[Arabic legal fine-tuning](https://github.com/hossamhamdy333/AI_Portfolio/tree/main/allam_finetune)**: ALLaM-7B with QLoRA. On 150 held-out rows, faithfulness went from 4.72 to 8.47 out of 10 (scored by Gemini).
-- **[Intrusion detection thesis](https://github.com/hossamhamdy333/machine-learning-techniques-for-intrusion-detection)**: XGBoost on
+- **[Intrusion detection thesis](https://github.com/hossamhamdy333/machine-learning-techniques-for-intrusion-detection)**: XGBoost on NF-UQ-NIDS-v2 reached 99.09% accuracy for attack vs normal traffic, and 98.23% across 21 attack types.
+
+The rest of my projects are in [AI_Portfolio](https://github.com/hossamhamdy333/AI_Portfolio).
+
+## Contact
+
+- Email: hossam3759180@gmail.com
+- LinkedIn: [hossam-hamdy-9857a6362](https://www.linkedin.com/in/hossam-hamdy-9857a6362)
